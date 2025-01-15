@@ -1,0 +1,7 @@
+Based on the user query: {inputText}, identify the Customer Data Platforms  to which the query is most relevant from the following list:
+segment
+mparticle
+lytics
+zeotap
+
+Respond with the exact name as in the list nothing else should be generated as output without any extra spaces.
